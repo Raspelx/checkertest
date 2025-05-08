@@ -292,7 +292,7 @@ getgenv().ExunysDeveloperESP = {
 		},
 
 		Box = {
-			Enabled = false,
+			Enabled = true,
 			RainbowColor = false,
 			RainbowOutlineColor = false,
 
@@ -320,7 +320,7 @@ getgenv().ExunysDeveloperESP = {
 		},
 
 		Chams = {
-			Enabled = true,
+			Enabled = false,
 			RainbowColor = false,
 
 			Color = Color3fromRGB(255, 255, 255),
